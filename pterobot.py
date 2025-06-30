@@ -107,7 +107,7 @@ async def server_menu(callback_query: types.CallbackQuery):
             'stopping': '🟡',
             'offline': '⚫'
         }.get(current_state, '⚪')
-        iof max_disk == 0:
+        if max_disk == 0:
             max_disk = "неограничено "
         if ip == None:
             ip = attrs['relationships']['allocations']['data'][0]['attributes']['ip']
