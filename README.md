@@ -1,5 +1,5 @@
 # Бот для управления вашими серверами в панеле Pterodactyl
-Я полностью открыт к новым идеям! Можете их предлагать в моего [телеграм бота](https://t.me/kyroblock_bot), создавать [пул реквесты](https://github.com/kyrowin/pterobot/pulls), или если нашли баг, то создавать [issue](https://github.com/kyrowin/pterobot/issues)  
+Я полностью открыт к новым идеям! Можете их предлагать в моего [телеграм бота](https://t.me/kyroblock_bot), создавать [пул реквесты](https://github.com/kyrowin/tgpterobot/pulls), или если нашли баг, то создавать [issue](https://github.com/kyrowin/tgpterobot/issues)  
 <b>1. Загрузка проекта и установка библиотек</b>
 1. Скачиваете проект  
   1.1 Если у вас Windows:
@@ -19,8 +19,8 @@
    sudo apt install python3
    sudo apt install python3-pip
    sudo apt install git
-   git clone https://github.com/kyrowin/pterobot
-   cd pterobot
+   git clone https://github.com/kyrowin/tgpterobot
+   cd tgpterobot
    ```
 2. Установка библиотек
 (Действия должны происходить в папке с проектом)   
@@ -54,7 +54,7 @@
   
      </details>
   
-     Пишите описание к ключу (чтобы не запутатся можно написать: <b>pterobot</b>)
+     Пишите описание к ключу (чтобы не запутатся можно написать: <b>tgpterobot</b>)
         <details>
      <summary>Фото</summary>
   
